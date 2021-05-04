@@ -1,0 +1,143 @@
+body {
+    background-color: #d8e3e7;
+    margin-top: 0;
+    font-family: 'Bitter', serif;
+}
+
+h1 {
+    display: inline;
+    font-size: 50px;
+}
+
+h2 {
+    color: #6e7c7c;
+    margin-top: 5px;
+}
+
+h3 {
+    color: #3b5360;
+    margin-left: 10px;
+    position: absolute;
+}
+
+div {
+    box-shadow: 10px 10px 10px rgba(128, 128, 128, 0.5);
+    border-radius: 10px;
+    background-color: white;
+}
+
+section {
+    height: 40px;
+    margin: 10px;
+    background-image: url("Backgrounds/stripes-light.png");
+    /*background-image: linear-gradient(to bottom, rgba(128, 128, 128, 0.25), rgba(169, 169, 169, 0.10)),*/
+    /*url('Backgrounds/stripes-light.png');*/
+}
+
+hr {
+    width: 90%;
+    border-top: 1px dotted grey;
+    margin-left: 0;
+}
+
+.head {
+    width: 95%;
+    top: 0;
+    background-color: white;
+    background-image: url("https://cdn.pixabay.com/photo/2017/03/20/23/54/pink-2160666__480.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 280px;
+    justify-content: center;
+    margin: 0 auto auto;
+}
+
+.style1 {
+    color: #3b5360;
+}
+
+.style2 {
+    color: #ff79cd;
+}
+
+.textHead {
+    position: relative;
+    left: 50px;
+    top: 50px;
+    width: fit-content;
+    text-align: center;
+
+}
+
+/*Menus left*/
+.menu1 {
+    width: 400px;
+    height: 700px;
+    margin-left: 44.40px;
+    margin-top: 20px;
+}
+
+.menu2 {
+    width: 400px;
+    height: 200px;
+    margin-left: 44.40px;
+    margin-top: 20px;
+}
+
+.menu3 {
+    width: 400px;
+    height: 400px;
+    margin-left: 44.40px;
+    margin-top: 20px;
+}
+
+.listItem {
+    color: #ff79cd;
+}
+
+/*Menus right*/
+.menuRight1 {
+    position: absolute;
+    color: white;
+    width: 69%;
+    height: 200px;
+    left: 500px;
+    top: 300px;
+}
+
+.menuRight2 {
+    position: absolute;
+    color: white;
+    width: 69%;
+    height: 300px;
+    left: 500px;
+    top: 520px;
+}
+
+.menuRight3 {
+    position: absolute;
+    color: white;
+    width: 69%;
+    height: 300px;
+    left: 500px;
+    top: 840px;
+}
+
+.menuRight4 {
+    position: absolute;
+    color: white;
+    width: 69%;
+    height: 400px;
+    left: 500px;
+    top: 1160px;
+}
+
+.menuRight5 {
+    position: absolute;
+    color: white;
+    width: 69%;
+    height: 300px;
+    left: 500px;
+    top: 1580px;
+}
