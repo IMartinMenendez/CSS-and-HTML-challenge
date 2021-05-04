@@ -39,7 +39,18 @@ hr {
     border-top: 1px dotted grey;
     margin-left: 0;
 }
-
+ul {
+    list-style-type: '▸︎';
+}
+p{
+    color: black;
+}
+.dotted{
+    text-decoration-style: dotted;
+}
+.link{
+    color: #ff79cd;
+}
 .head {
     width: 95%;
     top: 0;
